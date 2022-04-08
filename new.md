@@ -4,7 +4,7 @@
 # Heading 1
 ## Heading 2
 [Link](google.com)
-![Image](http://url/a.png)
+![Image](https://www.howtogeek.com/wp-content/uploads/2021/01/windows_hello_hero_2.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1)
 > Blockquote
 - List
 - List2
@@ -16,9 +16,9 @@ Horizontal Rule:
 
 ---
 
-'Inline Code'
+`Inline Code`
 
-'''
+```
 Code Block
 print "hello"
-'''
+```
